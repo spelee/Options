@@ -1,0 +1,114 @@
+Instrument Id,Ticker,BloombergTicker,Instrument Subtype,Maturity Date,Option Type,Option Strike,Description,Long/Short Position,Quantity,BCP I Pos Size,BCP II Pos Size,Pos Size Diff,Highmark Pos Size,Fort George Pos Size,Last Trade Date,AlgorithmicsExchangeCountry
+,,,,,,,,,,1.32724421,1.2997466,0.02749761,1.32222131,1.09013498,,
+11617,CVS,CVS,Equity,,,,CVS HEALTH ORD,Short,,,,,,,,US
+13289,TWX,TWX,Equity,,,,TIME WARNER ORD,Long,,,,,,,,US
+1226519,FMC,FMC,Equity,,,,FMC ORD,Short,,,,,,,,US
+1227319,LEN.B,LEN.B,Equity,,,,LENNAR CL B ORD,Short,,,,,,,,US
+1228100,EXAC,EXAC,Equity,,,,EXACTECH ORD,Long,,,,,,,,US
+1229289,AKRX,AKRX,Equity,,,,AKORN ORD,Long,,,,,,,,US
+1229502,XPO,XPO,Equity,,,,XPO LOGISTICS ORD,Long,,,,,,,,US
+1232070,ALA,ALA,Equity,,,,ALTAGAS ORD,Short,,,,,,,,CN
+1235729,MTG B,MTG B,Equity,,,,MODERN TIMES GROUP MTG B ORD,Long,,,,,,,,SS
+1238172,CALL,CALL,Equity,,,,MAGICJACK VOCALTEC ORD,Long,,,,,,,,US
+1238951,PUR,PUR,Equity,,,,PURE TECHNOLOGIES ORD,Long,,,,,,,,CN
+1240050,LIX,LIX,Equity,,,,LITHIUM X ENERGY ORD,Long,,,,,,,,CN
+1282261,SKY,SKY,Equity,,,,SKY ORD,Long,,,,,,,,LN
+6748979,3813,3813,Equity,,,,POU SHENG INT'L ORD,Long,,,,,,,,HK
+7415194,ILG,ILG,Equity,,,,ILG ORD,Long,,,,,,,,US
+14374566,NXPI,NXPI,Equity,,,,NXP SEMICONDUCTORS ORD,Long,,,,,,,,US
+22965338,BV,BV,Equity,,,,BAZAARVOICE ORD,Long,,,,,,,,US
+27861815,ALDW,ALDW,Equity,,,,ALON USA PARTNERS COM UNT,Long,,,,,,,,US
+37376291,NYRT,NYRT,REIT,,,,NEW YORK REIT ORD,Long,,,,,,,,US
+63777701,ALA.R,ALA.R,Equity,,,,ALTAGAS SUB RCPT,Long,,,,,,,,CN
+66220725,AMR,AMR,Equity,,,,ALTA MESA RESOURCES CL A ORD,Long,,,,,,,,US
+67488270,KLXI,,Equity Option,2/16/2018,Put,65,KLXI Feb8 65.0 P,Short,,,,,,,,US
+67494663,MD,,Equity Option,2/16/2018,Put,50,MD Feb8 50.0 P,Short,,,,,,,,US
+67498444,MSG,,Equity Option,2/16/2018,Put,200,MSG Feb8 200.0 P,Short,,,,,,,,US
+67505681,OMF,,Equity Option,2/16/2018,Put,30,OMF Feb8 30.0 P,Short,,,,,,,,US
+67521307,TROX,,Equity Option,2/16/2018,Put,18,TROX Feb8 18.0 P,Short,,,,,,,,US
+67527651,CASY,,Equity Option,2/16/2018,Put,115,CASY Feb8 115.0P,Short,,,,,,,,US
+67535558,CSOD,,Equity Option,2/16/2018,Put,37.5,CSOD Feb8 37.5 P,Short,,,,,,,,US
+67540004,WP,,Equity Option,2/16/2018,Put,75,WP Feb8 75.0 P,Short,,,,,,,,US
+67545132,WYN,,Equity Option,2/16/2018,Put,115,WYN Feb8 115.0 P,Short,,,,,,,,US
+67547929,XPO,,Equity Option,2/16/2018,Put,75,XPO Feb8 75.0 P,Short,,,,,,,,US
+67547930,XPO,,Equity Option,2/16/2018,Put,80,XPO Feb8 80.0 P,Short,,,,,,,,US
+67561788,HAIN,,Equity Option,2/16/2018,Put,36,HAIN Feb8 36.0 P,Short,,,,,,,,US
+67563053,HES,,Equity Option,2/16/2018,Put,47.5,HES Feb8 47.5 P,Short,,,,,,,,US
+67565501,HUM,,Equity Option,2/16/2018,Put,250,HUM Feb8 250.0 P,Short,,,,,,,,US
+67565566,HUN,,Equity Option,2/16/2018,Put,31,HUN Feb8 31.0 P,Short,,,,,,,,US
+67565567,HUN,,Equity Option,2/16/2018,Put,32,HUN Feb8 32.0 P,Short,,,,,,,,US
+67565568,HUN,,Equity Option,2/16/2018,Put,33,HUN Feb8 33.0 P,Short,,,,,,,,US
+67568096,ADP,,Equity Option,2/16/2018,Put,110,ADP Feb8 110.0 P,Short,,,,,,,,US
+67568097,ADP,,Equity Option,2/16/2018,Put,115,ADP Feb8 115.0 P,Short,,,,,,,,US
+67570783,ALXN,,Equity Option,2/16/2018,Put,110,ALXN Feb8 110.0P,Short,,,,,,,,US
+67575161,AVXS,,Equity Option,2/16/2018,Put,95,AVXS Feb8 95.0 P,Short,,,,,,,,US
+67651177,IMMU,,Equity Option,2/16/2018,Put,14,IMMU Feb8 14.0 P,Short,,,,,,,,US
+67652778,VOYA,,Equity Option,2/16/2018,Put,49,VOYA Feb8 49.0 P,Short,,,,,,,,US
+67652788,VOYA,,Equity Option,2/16/2018,Put,50,VOYA Feb8 50.0 P,Short,,,,,,,,US
+67771369,TWX,,Equity Option,2/16/2018,Call,97.5,TWX Feb8 97.5 C,Short,,,,,,,,US
+68418415,KKR,,Equity Option,3/16/2018,Call,24,KKR Mar8 24.0 C,Long,,,,,,,,US
+68418442,KKR,,Equity Option,3/16/2018,Put,21,KKR Mar8 21.0 P,Short,,,,,,,,US
+68428218,MSCC,,Equity Option,3/16/2018,Put,55,MSCC Mar8 55.0 P,Short,,,,,,,,US
+68519503,HAWK,,Equity Option,3/16/2018,Call,45,HAWK Mar8 45.0 C,Short,,,,,,,,US
+68932100,BHF,,Equity Option,2/16/2018,Put,60,BHF Feb8 60.0 P,Short,,,,,,,,US
+69725775,CHTR,,Equity Option,2/16/2018,Put,310,CHTR Feb8 310.0P,Short,,,,,,,,US
+70039589,CVS,,Equity Option,5/18/2018,Call,80,CVS May8 80.0 C,Long,,,,,,,,US
+70039591,CVS,,Equity Option,5/18/2018,Call,90,CVS May8 90.0 C,Short,,,,,,,,US
+70039633,CVS,,Equity Option,5/18/2018,Put,70,CVS May8 70.0 P,Short,,,,,,,,US
+70353905,MAC,,Equity Option,2/16/2018,Put,60,MAC Feb8 60.0 P,Short,,,,,,,,US
+70959904,MGM,,Equity Option,6/15/2018,Put,33,MGM Jun8 33.0 P,Short,,,,,,,,US
+71038387,AKRX,,Equity Option,6/15/2018,Put,32.5,AKRX Jun8 32.5 P,Long,,,,,,,,US
+71113300,MGM,,Equity Option,6/15/2018,Call,41,MGM Jun8 41.0 C,Long,,,,,,,,US
+71113354,MGM,,Equity Option,6/15/2018,Call,45,MGM Jun8 45.0 C,Short,,,,,,,,US
+71474458,DWDP,,Equity Option,2/16/2018,Put,70,DWDP Feb8 70.0 P,Short,,,,,,,,US
+71538451,EA,,Equity Option,2/16/2018,Put,105,EA Feb8 105.0 P,Short,,,,,,,,US
+71556831,TWX,,Equity Option,2/16/2018,Put,87.5,TWX Feb8 87.5 P,Short,,,,,,,,US
+71609811,LEN,,Equity Option,2/16/2018,Put,57.5,LEN Feb8 57.5 P,Short,,,,,,,,US
+71609819,LEN,,Equity Option,2/16/2018,Put,60,LEN Feb8 60.0 P,Short,,,,,,,,US
+71670948,PF,,Equity Option,2/16/2018,Put,55,PF Feb8 55.0 P,Short,,,,,,,,US
+71670956,PF,,Equity Option,2/16/2018,Put,57.5,PF Feb8 57.5 P,Short,,,,,,,,US
+71710424,QCOM,,Equity Option,2/16/2018,Put,60,QCOM Feb8 60.0 P,Short,,,,,,,,US
+71781369,MGM,,Equity Option,2/16/2018,Put,31,MGM Feb8 31.0 P,Short,,,,,,,,US
+71781372,MGM,,Equity Option,2/16/2018,Put,34,MGM Feb8 34.0 P,Short,,,,,,,,US
+71782840,MON,,Equity Option,7/20/2018,Call,120,MON Jul8 120.0 C,Long,,,,,,,,US
+71782841,MON,,Equity Option,7/20/2018,Call,125,MON Jul8 125.0 C,Short,,,,,,,,US
+71782884,MON,,Equity Option,7/20/2018,Put,110,MON Jul8 110.0 P,Short,,,,,,,,US
+72041171,VIAB,,Equity Option,2/16/2018,Put,30,VIAB Feb8 30.0 P,Short,,,,,,,,US
+72103118,JUNO,,Equity Option,3/16/2018,Call,90,JUNO Jan9 90.0 C,Short,,,,,,,,US
+72463848,APTV,,Equity Option,2/16/2018,Put,82.5,APTV Feb8 82.5 P,Short,,,,,,,,US
+72554421,BG,,Equity Option,2/16/2018,Put,62.5,BG Feb8 62.5 P,Short,,,,,,,,US
+72556104,BMRN,,Equity Option,2/16/2018,Put,85,BMRN Feb8 85.0 P,Short,,,,,,,,US
+72558120,BYD,,Equity Option,2/16/2018,Put,33,BYD Feb8 33.0 P,Short,,,,,,,,US
+72558122,BYD,,Equity Option,2/16/2018,Put,35,BYD Feb8 35.0 P,Short,,,,,,,,US
+72559813,RDUS,,Equity Option,2/16/2018,Put,35,RDUS Feb8 35.0 P,Short,,,,,,,,US
+72561860,RNG,,Equity Option,2/16/2018,Put,43,RNG Feb8 43.0 P,Short,,,,,,,,US
+72561861,RNG,,Equity Option,2/16/2018,Put,44,RNG Feb8 44.0 P,Short,,,,,,,,US
+72561864,RNG,,Equity Option,2/16/2018,Put,47,RNG Feb8 47.0 P,Short,,,,,,,,US
+72562044,ROK,,Equity Option,2/16/2018,Put,185,ROK Feb8 185.0 P,Short,,,,,,,,US
+72563821,IAC,,Equity Option,2/16/2018,Put,115,IAC Feb8 115.0 P,Short,,,,,,,,US
+72566236,ILG,,Equity Option,2/16/2018,Put,27,ILG Feb8 27.0 P,Short,,,,,,,,US
+72566238,ILG,,Equity Option,2/16/2018,Put,29,ILG Feb8 29.0 P,Short,,,,,,,,US
+72570491,JAZZ,,Equity Option,2/16/2018,Put,135,JAZZ Feb8 135.0P,Short,,,,,,,,US
+72571930,JWN,,Equity Option,2/16/2018,Put,45,JWN Feb8 45.0 P,Short,,,,,,,,US
+72574765,LBTYA,,Equity Option,2/16/2018,Put,35,LBTY Feb8 35.0 P,Short,,,,,,,,US
+72575205,LGF.A,,Equity Option,2/16/2018,Put,30,LGFA Feb8 30.0 P,Short,,,,,,,,US
+72576718,LOW,,Equity Option,2/16/2018,Put,97.5,LOW Feb8 97.5 P,Short,,,,,,,,US
+72580900,MLNX,,Equity Option,2/16/2018,Put,62.5,MLNX Feb8 62.5 P,Short,,,,,,,,US
+72581843,MON,,Equity Option,2/16/2018,Call,125,MON Feb8 125.0 C,Short,,,,,,,,US
+72581882,MON,,Equity Option,2/16/2018,Put,110,MON Feb8 110.0 P,Short,,,,,,,,US
+72581883,MON,,Equity Option,2/16/2018,Put,115,MON Feb8 115.0 P,Long,,,,,,,,US
+72582181,MPC,,Equity Option,2/16/2018,Put,62.5,MPC Feb8 62.5 P,Short,,,,,,,,US
+72582182,MPC,,Equity Option,2/16/2018,Put,65,MPC Feb8 65.0 P,Short,,,,,,,,US
+72582688,MSCC,,Equity Option,2/16/2018,Put,55,MSCC Feb8 55.0 P,Short,,,,,,,,US
+72583141,MTCH,,Equity Option,2/16/2018,Put,30,MTCH Feb8 30.0 P,Short,,,,,,,,US
+72588529,NXPI,,Equity Option,2/16/2018,Call,125,NXPI Feb8 125.0C,Short,,,,,,,,US
+72592096,PBI,,Equity Option,2/16/2018,Put,11,PBI Feb8 11.0 P,Short,,,,,,,,US
+72598107,TCO,,Equity Option,2/16/2018,Put,55,TCO Feb8 55.0 P,Short,,,,,,,,US
+72598108,TCO,,Equity Option,2/16/2018,Put,60,TCO Feb8 60.0 P,Short,,,,,,,,US
+72599738,TIVO,,Equity Option,2/16/2018,Call,15,TIVO Feb8 15.0 C,Short,,,,,,,,US
+72599739,TIVO,,Equity Option,2/16/2018,Call,16,TIVO Feb8 16.0 C,Long,,,,,,,,US
+72599754,TIVO,,Equity Option,2/16/2018,Put,14,TIVO Feb8 14.0 P,Short,,,,,,,,US
+72599755,TIVO,,Equity Option,2/16/2018,Put,15,TIVO Feb8 15.0 P,Short,,,,,,,,US
+72607503,CARS,,Equity Option,2/16/2018,Put,25,CARS Feb8 25.0 P,Short,,,,,,,,US
+72623619,SPB,,Equity Option,2/16/2018,Put,110,SPB Feb8 110.0 P,Short,,,,,,,,US
+72627626,VAC,,Equity Option,2/16/2018,Put,130,VAC Feb8 130.0 P,Short,,,,,,,,US
